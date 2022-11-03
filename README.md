@@ -6,9 +6,9 @@ Henry cohort 04 (DS04)
 
 1. Data extraction and load of datasets.
 2. Data transformation with python.
-3. 
-4. 
-5. 
+3. Machine learning model and hyperparameters definition (sklearn).
+4. Calculation of accuracy parameters.
+5. Hyperparameters update.
 
 ## Dataset
 
