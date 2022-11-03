@@ -48,8 +48,7 @@ FN: False negative.
 
 ## 5. Hyperparameters update: 
 
-After the data is ready to be used, we select the machine learning model based on the problem we are trying to solve and the characteristics of the data we are using.
-improve the results obtained.
+An ongoing update of the data is performed to improve the results obtaining, repeting the stages 3, 4 and 5, until securing relevant results.
 
 
 ## --> About the repository
