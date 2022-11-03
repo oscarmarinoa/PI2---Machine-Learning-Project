@@ -52,6 +52,7 @@ You will find the following files:
 ## --> Information to highlight
 * [Geopy documentation](https://geopy.readthedocs.io/en/stable/)
 * [Regular Expression Operation Module - RE](https://docs.python.org/3/library/re.html)
+* [numpy.isnan()](https://numpy.org/doc/stable/reference/generated/numpy.isnan.html)
 
 ## Contact
 
