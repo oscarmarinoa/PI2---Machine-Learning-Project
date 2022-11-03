@@ -1,7 +1,7 @@
 # PI2---Machine-Learning-Project
 Machine learning project focused on defining if some properties in Colombia are expensive or cheap.
-
-
+This project corresponds to the second individual project of the Data Science career of 
+Henry cohort 04 (DS04)
 ## Procedure
 
 1. Data extraction and load of datasets.
