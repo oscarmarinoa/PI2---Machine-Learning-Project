@@ -1,4 +1,4 @@
-# PI2---Machine-Learning-Project
+Hi# PI2---Machine-Learning-Project
 Machine learning project focused on defining if some properties in Colombia are expensive or cheap.
 This project corresponds to the second individual project of the Data Science career of 
 Henry cohort 04 (DS04)
@@ -14,9 +14,8 @@ Henry cohort 04 (DS04)
 
 The dataset for this project is formed by .
 
-* Sucursal: 
-* Producto: 
-* Precio_semana: 
+* Train.csv: Table containing information regarding properties in Colombia, their prices, locations, amenities among other characteristics. This is the data to train the model for defining the cheap or expensive tag.
+* Test.csv: Table containing information for properties in Colombia, for which the definition of expensive or cheap adjective will be predicted.
 
 ## 1. Data extraction and load of datasets:
 
