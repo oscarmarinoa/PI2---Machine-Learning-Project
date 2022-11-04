@@ -60,6 +60,9 @@ You will find the following files:
 * geolocator.ipynb: A short code using geopandas and geopy to find geographic information on an specific location and its illustration in a map.
 * test_corrected.csv: A file with the train data corrected, used for training the machine learning models.
 * test_corrected.csv: The test data corrected, used for predictions of tags.
+# Pipeline.ipynb: A short basic pipeline created for the project.
+# Train_pipeline: File for running the pipeline.
+# data_standardized_pipeline: File for running the pipeline.
 
 ## --> Information to highlight
 * [Geopy documentation](https://geopy.readthedocs.io/en/stable/)
