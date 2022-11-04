@@ -53,20 +53,26 @@ An ongoing update of the data is performed to improve the results obtaining, rep
 
 ## --> About the repository
 You will find the following files:
-* script.ipynb: A Jupiter notebook file containing all the cleansing and transformation executed to the train file.
-* 
-* 
-* 
+* Train Script.ipynb: A Jupiter notebook file containing all the cleansing and transformation executed to the train file.
+* Test Script.ipynb: A Jupiter notebook file containing the same cleansing and transformation for the test file.
+* models.ipynb: A Jupiter notebook file with the models proposed and their performanca metrics. 
+* oscarmarinoa.csv: A file with the predictions for the properties.
+* geolocator.ipynb: A short code using geopandas and geopy to find geographic information on an specific location and its illustration in a map.
+* test_corrected.csv: A file with the train data corrected, used for training the machine learning models.
+* test_corrected.csv: The test data corrected, used for predictions of tags.
 
 ## --> Information to highlight
 * [Geopy documentation](https://geopy.readthedocs.io/en/stable/)
 * [Regular Expression Operation Module - RE](https://docs.python.org/3/library/re.html)
 * [numpy.isnan()](https://numpy.org/doc/stable/reference/generated/numpy.isnan.html)
 
-## --> Lessons learned
-* [Geopy documentation](https://geopy.readthedocs.io/en/stable/)
-* [Regular Expression Operation Module - RE](https://docs.python.org/3/library/re.html)
-* [numpy.isnan()](https://numpy.org/doc/stable/reference/generated/numpy.isnan.html)
+## --> Lesson learned
+* In a correlation matrix you would expect NaN if the values used for the correlation do not vary.
+   According to the formula:
+
+	* cor(i,j) = cov(i,j)/[stdev(i)*stdev(j)]
+
+  If the values of the ith or jth variable do not vary, then the respective standard deviation will be zero and so will the denominator of the fraction.
 
 ## Contact
 
