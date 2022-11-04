@@ -57,7 +57,6 @@ You will find the following files:
 * Test Script.ipynb: A Jupiter notebook file containing the same cleansing and transformation for the test file.
 * models.ipynb: A Jupiter notebook file with the models proposed and their performanca metrics. 
 * oscarmarinoa.csv: A file with the predictions for the properties.
-* geolocator.ipynb: A short code using geopandas and geopy to find geographic information on an specific location and its illustration in a map.
 * test_corrected.csv: A file with the train data corrected, used for training the machine learning models.
 * test_corrected.csv: The test data corrected, used for predictions of tags.
 * Pipeline.ipynb: A short basic pipeline created for the project.
